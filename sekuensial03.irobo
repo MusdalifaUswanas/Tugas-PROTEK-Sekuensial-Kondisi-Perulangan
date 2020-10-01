@@ -1,0 +1,20 @@
+map : followLine.map
+
+east(4)
+north(6)
+east(9)
+north(2)
+pickUp
+south(1)
+west(3)
+south(2)
+east(1)
+south(3)
+east(2)
+south(2)
+west(1)
+south(2)
+west(3)
+north(2)
+left
+putDown
