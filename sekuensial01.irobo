@@ -1,0 +1,10 @@
+map : default.map
+
+forward(1)
+forward(2)
+east(3)
+south(4)
+pickUp
+right
+putDown
+
